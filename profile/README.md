@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Kurogane. Chromium, on your terms." src="https://github.com/kurogane-rs/.github/raw/main/profile/banner.png" width="100%">
+  <img alt="Kurogane. Chromium, on your terms." src="https://github.com/kurogane-rs/.github/raw/master/profile/banner.png" width="100%">
 </p>
 
 Build high-performance, GPU-accelerated desktop applications or embed Chromium directly into existing applications.
